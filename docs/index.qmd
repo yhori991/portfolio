@@ -23,12 +23,6 @@ I've worked with a variety of data that are used to build predictive models, inc
 
 As I spend more time as a practitioner, I've become increasingly fascinated by the software ecosystem that makes it all possible. As such, I'm contributing to conda-forge by night and also fiddling around with Nix in my spare time.
 
-## Hobbies
-
-- Riding bicycles
-- Climbing Boulders
-- Brewing coffee
-
 ## Technical Skills
 
 ### Infrastructure & Orchestration
@@ -53,6 +47,12 @@ As I spend more time as a practitioner, I've become increasingly fascinated by t
   - Ray (Ray Serve)
 - **Selling Models**
   - Amazon SageMaker
+
+## Hobbies
+
+- Riding bicycles
+- Climbing boulders
+- Brewing coffee
 
 ## Contact
 
