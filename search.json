@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "cv.html#experience",
+    "href": "cv.html#experience",
+    "title": "Yoshihiro Hori - CV",
+    "section": "Experience",
+    "text": "Experience\n\n\n\nML Engineer - SyntheticGestalt, Tokyo, Japan\n2020.09 - Present\n\nWorked on multiple projects, building models and tools\nBuilt ADMET prediction models\nBuilt competitive models as a team for SIGNATE (won the 3rd place)\nBuilt a model training framework of PyTorch models using SageMaker\nBuilt vision models\n\n\n\nFreelance - Multiple clients, Kyoto, Japan\n2016.09 - 2020.09\n\nDeveloped vision models\nDeployed survailance systems\nWorked on embedded devices\nWorked for a startup developing mesh networking software\n\n\n\nSoftware Engineer - Exaintelligence, Kyoto, Japan\n2016.04 - 2016.09\n\nBuilt RC cars with cameras using Raspberry Pi\nBuilt a car-driving simulation environment for RL algorithms\n\n\n\nChemical Engineer Intern - BASF, Dusseldorf, Germany\n2014.07 - 2014.09\n\nOptimized chemical processes by modeling and simulations\n\n\n\niOS App Development Summer Intern - CyberAgent, Tokyo, Japan\n2013.08 - 2013.09\n\nDeveloped an iOS app"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Yoshihiro Hori - CV",
+    "section": "Education",
+    "text": "Education\n\n\n\nDoctor of Philosophy - PhD (Dropout), Chemical Engineering\n2016.04 - 2016.09, Kyoto University, Kyoto, Japan\n\n\nCollaborative Research Project, Chemical Engineering\n2015.06 - 2015.09, Massachusetts Institute of Technology, Cambridge, MA, USA\n\n\nMaster of Engineering - MEng, Chemical Engineering\n2014.04 - 2016.03, Kyoto University, Kyoto, Japan\n\n\nBachelor of Engineering - BEng, Engineering\n2010.04 - 2014.03, Kyoto University, Kyoto, Japan"
+  },
+  {
+    "objectID": "cv.html#publications",
+    "href": "cv.html#publications",
+    "title": "Yoshihiro Hori - CV",
+    "section": "Publications",
+    "text": "Publications\n\n\nMultiscale DSA simulations for efficient hotspot analysis\n2014, SPIE Proceedings, Yoshihiro Hori, Kenji Yoshimoto, Takashi Taniguchi, Masahiro Ohshima"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Yoshihiro Hori",
+    "section": "",
+    "text": "Hi, I’m Yoshihiro Hori, a ML engineer at SyntheticGestalt, where I read papers, build models, manage data pipelines, and set up and maintain infrastructure.\nI’ve worked with a variety of data that are used to build predictive models, including images, videos, protein sequences, and molecular structures, ranging from thousands to tens of billions of records.\nAs I spend more time as a practitioner, I’ve become increasingly fascinated by the software ecosystem that makes it all possible. As such, I’m contributing to conda-forge by night and also fiddling around with Nix in my spare time."
+  },
+  {
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
+    "title": "Yoshihiro Hori",
+    "section": "",
+    "text": "Hi, I’m Yoshihiro Hori, a ML engineer at SyntheticGestalt, where I read papers, build models, manage data pipelines, and set up and maintain infrastructure.\nI’ve worked with a variety of data that are used to build predictive models, including images, videos, protein sequences, and molecular structures, ranging from thousands to tens of billions of records.\nAs I spend more time as a practitioner, I’ve become increasingly fascinated by the software ecosystem that makes it all possible. As such, I’m contributing to conda-forge by night and also fiddling around with Nix in my spare time."
+  },
+  {
+    "objectID": "index.html#hobbies",
+    "href": "index.html#hobbies",
+    "title": "Yoshihiro Hori",
+    "section": "Hobbies",
+    "text": "Hobbies\n\nRiding bicycles\nClimbing Boulders\nBrewing coffee"
+  },
+  {
+    "objectID": "index.html#technical-skills",
+    "href": "index.html#technical-skills",
+    "title": "Yoshihiro Hori",
+    "section": "Technical Skills",
+    "text": "Technical Skills\n\nInfrastructure & Orchestration\n\nTerraform (primarily for building k8s clusters)\nKubernetes\n\n\n\nData Engineering\n\nData Orchestration\n\nDagster\n\nData Transformation\n\nRay (Ray Data)\n\nData Wrangling\n\nPySpark/DuckDB/Polars etc…\n\n\n\n\nMachine Learning\n\nDevelopiung Models \n\nPyTorch\n\nServing Models\n\nRay (Ray Serve)\n\nSelling Models\n\nAmazon SageMaker"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Yoshihiro Hori",
+    "section": "Contact",
+    "text": "Contact\n\nGitHub: yhori991\nLinkedIn: yoshihiro-hori-95976619a"
+  }
+]
