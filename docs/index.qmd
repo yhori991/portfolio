@@ -2,7 +2,7 @@
 title: "Yoshihiro Hori"
 about:
   template: trestles
-  image: "https://avatars.githubusercontent.com/u/43234011?s=400&u=6388916b1366fccf501651a2862ad75d3dcb0c47&v=4"
+  image: "imgs/profile.png"
   image-width: 20em
   image-shape: round
   links:
