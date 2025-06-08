@@ -1,0 +1,38 @@
+- company: SyntheticGestalt
+  role: ML Engineer
+  duration: 2020.09 - Present
+  location: Tokyo, Japan
+  description:
+    - Worked on multiple projects, building models and tools
+    - Built ADMET prediction models
+    - Built competitive models as a team for SIGNATE ([won the 3rd place](https://signate.jp/competitions/168/leaderboard))
+    - Built a model training framework of PyTorch models using SageMaker
+    - Built vision models
+- company: Multiple clients
+  role: Freelance
+  duration: 2016.09 - 2020.09
+  location: Kyoto, Japan
+  description:
+    - Developed vision models
+    - Deployed survailance systems
+    - Worked on embedded devices
+    - Worked for a startup developing mesh networking software
+- company: Exaintelligence
+  role: Software Engineer
+  duration: 2016.04 - 2016.09
+  location: Kyoto, Japan
+  description:
+    - Built RC cars with cameras using Raspberry Pi
+    - Built a car-driving simulation environment for RL algorithms
+- company: BASF
+  role: Chemical Engineer Intern
+  duration: 2014.07 - 2014.09
+  location: Dusseldorf, Germany
+  description:
+    - Optimized chemical processes by modeling and simulations
+- company: CyberAgent
+  role: iOS App Development Summer Intern
+  duration: 2013.08 - 2013.09
+  location: Tokyo, Japan
+  description:
+    - Developed an iOS app
