@@ -1,0 +1,14 @@
+project:
+  type: website
+  preview:
+      port: 5000
+
+website:
+  title: "yhori991.github.io/portfolio"
+  page-footer:
+    left: "(c) Yoshihiro Hori, 2025 - Present"
+
+format:
+  html:
+    theme: [cosmo, custom.scss]
+    css: styles.css

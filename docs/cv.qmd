@@ -1,0 +1,73 @@
+---
+title: Yoshihiro Hori - CV
+author:
+  firstname: Yoshihiro
+  lastname: Hori
+  address: SyntheticGestalt, Tokyo, Japan
+  position: ML Engineer
+style:
+  color-accent: 516db0
+execute:
+  echo: false
+---
+
+<br>
+
+## Experience
+
+```{python}
+import polars as pl
+import yaml
+from IPython.display import Markdown
+
+with open("../data/experience.yaml", "r") as f:
+    experience_df = pl.from_dicts(yaml.safe_load(f))
+
+experience_md = ''.join([f"""
+### {r['role']} - {r['company']}, {r['location']}
+*{r['duration']}*
+
+{'\n'.join([f"- {x}" for x in r['description']])}
+
+""" for r in experience_df.iter_rows(named=True)])
+
+Markdown(experience_md)
+```
+
+## Education
+
+```{python}
+import polars as pl
+import yaml
+from IPython.display import Markdown
+
+with open("../data/education.yaml", "r") as f:
+    education_df = pl.from_dicts(yaml.safe_load(f))
+
+education_md = ''.join([f"""
+### {r['program']}
+*{r['duration']}*, {r['institution']}, {r['location']}
+
+""" for r in education_df.iter_rows(named=True)])
+
+Markdown(education_md)
+```
+
+## Publications
+
+```{python}
+import polars as pl
+import yaml
+from IPython.display import Markdown
+
+with open("../data/publications.yaml", "r") as f:
+    publications_df = pl.from_dicts(yaml.safe_load(f))
+
+publications_md = ''.join([f"""
+### {r['title']}
+*{r['year']}*, {r['journal']}, {r['authors']}
+
+""" for r in publications_df.iter_rows(named=True)])
+
+Markdown(publications_md)
+```
