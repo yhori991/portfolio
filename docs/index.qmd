@@ -41,7 +41,7 @@ As I spend more time as a practitioner, I've become increasingly fascinated by t
 
 ### Machine Learning
 
-- **Developing Models **
+- **Developing Models**
   - PyTorch
 - **Serving Models**
   - Ray (Ray Serve)
