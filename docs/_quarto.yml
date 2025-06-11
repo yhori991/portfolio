@@ -6,7 +6,7 @@ project:
 website:
   title: "yhori991.github.io/portfolio"
   page-footer:
-    left: "(c) Yoshihiro Hori, 2025 - Present"
+    center: "Yoshihiro Hori, 2025 - Present"
 
 format:
   html:
