@@ -20,7 +20,7 @@ import polars as pl
 import yaml
 from IPython.display import Markdown
 
-with open("../data/experience.yaml", "r") as f:
+with open("data/experience.yaml", "r") as f:
     experience_df = pl.from_dicts(yaml.safe_load(f))
 
 experience_md = ''.join([f"""
@@ -41,7 +41,7 @@ import polars as pl
 import yaml
 from IPython.display import Markdown
 
-with open("../data/education.yaml", "r") as f:
+with open("data/education.yaml", "r") as f:
     education_df = pl.from_dicts(yaml.safe_load(f))
 
 education_md = ''.join([f"""
@@ -60,7 +60,7 @@ import polars as pl
 import yaml
 from IPython.display import Markdown
 
-with open("../data/publications.yaml", "r") as f:
+with open("data/publications.yaml", "r") as f:
     publications_df = pl.from_dicts(yaml.safe_load(f))
 
 publications_md = ''.join([f"""
