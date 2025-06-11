@@ -18,7 +18,7 @@
     "href": "index.html#technical-skills",
     "title": "Yoshihiro Hori",
     "section": "Technical Skills",
-    "text": "Technical Skills\n\nInfrastructure & Orchestration\n\nTerraform (primarily for building k8s clusters)\nKubernetes\n\n\n\nData Engineering\n\nData Orchestration\n\nDagster\n\nData Transformation\n\nRay (Ray Data)\n\nData Wrangling\n\nPySpark/DuckDB/Polars etc…\n\n\n\n\nMachine Learning\n\nDevelopiung Models \n\nPyTorch\n\nServing Models\n\nRay (Ray Serve)\n\nSelling Models\n\nAmazon SageMaker"
+    "text": "Technical Skills\n\nInfrastructure & Orchestration\n\nTerraform (primarily for building k8s clusters)\nKubernetes\n\n\n\nData Engineering\n\nData Orchestration\n\nDagster\n\nData Transformation\n\nRay (Ray Data)\n\nData Wrangling\n\nPySpark/DuckDB/Polars etc…\n\n\n\n\nMachine Learning\n\nDeveloping Models\n\nPyTorch\n\nServing Models\n\nRay (Ray Serve)\n\nSelling Models\n\nAmazon SageMaker"
   },
   {
     "objectID": "index.html#hobbies",
@@ -39,7 +39,7 @@
     "href": "cv.html#experience",
     "title": "Yoshihiro Hori - CV",
     "section": "Experience",
-    "text": "Experience\n\n\n\nML Engineer - SyntheticGestalt, Tokyo, Japan\n2020.09 - Present\n\nWorked on multiple projects, building models and tools\nBuilt ADMET prediction models\nBuilt competitive models as a team for SIGNATE (won the 3rd place)\nBuilt a model training framework of PyTorch models using SageMaker\nBuilt vision models\n\n\n\nFreelance - Multiple clients, Kyoto, Japan\n2016.09 - 2020.09\n\nDeveloped vision models\nDeployed survailance systems\nWorked on embedded devices\nWorked for a startup developing mesh networking software\n\n\n\nSoftware Engineer - Exaintelligence, Kyoto, Japan\n2016.04 - 2016.09\n\nBuilt RC cars with cameras using Raspberry Pi\nBuilt a car-driving simulation environment for RL algorithms\n\n\n\nChemical Engineer Intern - BASF, Dusseldorf, Germany\n2014.07 - 2014.09\n\nOptimized chemical processes by modeling and simulations\n\n\n\niOS App Development Summer Intern - CyberAgent, Tokyo, Japan\n2013.08 - 2013.09\n\nDeveloped an iOS app"
+    "text": "Experience\n\n\n\nML Engineer - SyntheticGestalt, Tokyo, Japan\n2020.06 - Present\n\nWorked on multiple projects, building models and tools\nBuilt ADMET prediction models\nBuilt competitive models as a team for SIGNATE (won the 3rd place)\nBuilt a model training framework of PyTorch models using SageMaker\nBuilt vision models\n\n\n\nFreelance - Multiple clients, Kyoto, Japan\n2016.09 - 2020.09\n\nDeveloped vision models\nDeployed survailance systems\nWorked on embedded devices\nWorked for a startup developing mesh networking software\n\n\n\nSoftware Engineer - Exaintelligence, Kyoto, Japan\n2016.04 - 2016.09\n\nBuilt RC cars with cameras using Raspberry Pi\nBuilt a car-driving simulation environment for RL algorithms\n\n\n\nChemical Engineer Intern - BASF, Dusseldorf, Germany\n2014.07 - 2014.09\n\nOptimized chemical processes by modeling and simulations\n\n\n\niOS App Development Summer Intern - CyberAgent, Tokyo, Japan\n2013.08 - 2013.09\n\nDeveloped an iOS app"
   },
   {
     "objectID": "cv.html#education",
