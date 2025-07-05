@@ -4,10 +4,10 @@
   location: Tokyo, Japan
   description:
     - Worked on multiple projects, building models and tools
-    - Built ADMET prediction models
+    - Built ADMET prediction models for National Institutes of Biomedical Innovation, Health and Nutrition ([DruMAP](https://pubs.acs.org/doi/10.1021/acs.jmedchem.3c00481))
     - Built competitive models as a team for SIGNATE ([won the 3rd place](https://signate.jp/competitions/168/leaderboard))
-    - Built a model training framework of PyTorch models using SageMaker
-    - Built vision models
+    - Built a declarative PyTorch model training framework using SageMaker
+    - Built a pretrained video classification model supporting incremental class addition without performance degradation
 - company: Multiple clients
   role: Freelance
   duration: 2016.09 - 2020.09
