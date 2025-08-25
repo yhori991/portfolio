@@ -1,17 +1,18 @@
 ---
-title: Yoshihiro Hori - CV
-author:
-  firstname: Yoshihiro
-  lastname: Hori
-  address: SyntheticGestalt, Tokyo, Japan
-  position: ML Engineer
-style:
-  color-accent: 516db0
+title: "CV"
+format:
+  html:
+    toc: true
+  pdf:
+    author: Yoshihiro Hori
+    pdf-engine: weasyprint
+css: cv.css
+format-links: [pdf]
 execute:
+  eval: true
   echo: false
+  output: true
 ---
-
-<br>
 
 ## Experience
 

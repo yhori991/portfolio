@@ -5,6 +5,10 @@ project:
 
 website:
   title: "yhori991.github.io/portfolio"
+  site-url: "https://yhori991.github.io/portfolio"
+  description: "Yoshihiro Hori's portfolio"
+  open-graph: true
+  repo-url: "https://github.com/yhori991/portfolio"
   page-footer:
     center: "Yoshihiro Hori, 2025 - Present"
 
