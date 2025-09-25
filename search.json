@@ -1,5 +1,33 @@
 [
   {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "2025.02 - Present\n\nApplied topological data analysis (TDA) on chemical space to build predictive models\n\n\n\n\n2020.06 - 2025.02\n\nBuilt an internal system for running model inference at scale using Ray and RayDP\nBuilt ADMET prediction models for National Institutes of Biomedical Innovation, Health and Nutrition (NIBIOHN) and their service DruMAP\nBuilt a competitive compound property prediction model for SIGNATE and won the 3rd place as a team\nBuilt a declarative PyTorch model training framework using SageMaker\nBuilt a video classification model supporting incremental class addition without performance degradation\n\n\n\n\n2016.09 - 2020.06\n\nDeveloped vision models for a video classification task\nDeployed survailance systems using network cameras\nWorked on tuning and configuring linux kernel for embedded devices\nWorked for a startup developing mesh networking software for IoT devices\n\n\n\n\n2016.04 - 2016.09\n\nBuilt RC cars with cameras using Raspberry Pi\nBuilt a car-driving simulation environment for RL algorithms\n\n\n\n\n2014.07 - 2014.09\n\nOptimized chemical processes by modeling and simulations\n\n\n\n\n2013.08 - 2013.09\n\nDeveloped an iOS fitness tracker app"
+  },
+  {
+    "objectID": "cv.html#experience",
+    "href": "cv.html#experience",
+    "title": "CV",
+    "section": "",
+    "text": "2025.02 - Present\n\nApplied topological data analysis (TDA) on chemical space to build predictive models\n\n\n\n\n2020.06 - 2025.02\n\nBuilt an internal system for running model inference at scale using Ray and RayDP\nBuilt ADMET prediction models for National Institutes of Biomedical Innovation, Health and Nutrition (NIBIOHN) and their service DruMAP\nBuilt a competitive compound property prediction model for SIGNATE and won the 3rd place as a team\nBuilt a declarative PyTorch model training framework using SageMaker\nBuilt a video classification model supporting incremental class addition without performance degradation\n\n\n\n\n2016.09 - 2020.06\n\nDeveloped vision models for a video classification task\nDeployed survailance systems using network cameras\nWorked on tuning and configuring linux kernel for embedded devices\nWorked for a startup developing mesh networking software for IoT devices\n\n\n\n\n2016.04 - 2016.09\n\nBuilt RC cars with cameras using Raspberry Pi\nBuilt a car-driving simulation environment for RL algorithms\n\n\n\n\n2014.07 - 2014.09\n\nOptimized chemical processes by modeling and simulations\n\n\n\n\n2013.08 - 2013.09\n\nDeveloped an iOS fitness tracker app"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "Education",
+    "text": "Education\n\n\n\nDoctor of Philosophy - PhD (Dropout), Chemical Engineering\n2016.04 - 2016.09, Kyoto University, Kyoto, Japan\n\n\nCollaborative Research Project, Chemical Engineering\n2015.06 - 2015.09, Massachusetts Institute of Technology, Cambridge, MA, USA\n\n\nMaster of Engineering - MEng, Chemical Engineering\n2014.04 - 2016.03, Kyoto University, Kyoto, Japan\n\n\nBachelor of Engineering - BEng, Engineering\n2010.04 - 2014.03, Kyoto University, Kyoto, Japan"
+  },
+  {
+    "objectID": "cv.html#publications",
+    "href": "cv.html#publications",
+    "title": "CV",
+    "section": "Publications",
+    "text": "Publications\n\n\nMultiscale DSA simulations for efficient hotspot analysis\n2014, SPIE Proceedings, Yoshihiro Hori, Kenji Yoshimoto, Takashi Taniguchi, Masahiro Ohshima"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Yoshihiro Hori",
@@ -33,33 +61,5 @@
     "title": "Yoshihiro Hori",
     "section": "Contact",
     "text": "Contact\n\nGitHub: yhori991\nLinkedIn: yoshihiro-hori-95976619a"
-  },
-  {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
-    "section": "",
-    "text": "2025.02 - Present\n\nApplied topological data analysis (TDA) on chemical space to build predictive models\n\n\n\n\n2020.06 - 2025.02\n\nBuilt an internal system for running model inference at scale using Ray and RayDP\nBuilt ADMET prediction models for National Institutes of Biomedical Innovation, Health and Nutrition (NIBIOHN) and their service DruMAP\nBuilt a competitive compound property prediction model for SIGNATE and won the 3rd place as a team\nBuilt a declarative PyTorch model training framework using SageMaker\nBuilt a video classification model supporting incremental class addition without performance degradation\n\n\n\n\n2016.09 - 2020.09\n\nDeveloped vision models for a video classification task\nDeployed survailance systems using network cameras\nWorked on tuning and configuring linux kernel for embedded devices\nWorked for a startup developing mesh networking software for IoT devices\n\n\n\n\n2016.04 - 2016.09\n\nBuilt RC cars with cameras using Raspberry Pi\nBuilt a car-driving simulation environment for RL algorithms\n\n\n\n\n2014.07 - 2014.09\n\nOptimized chemical processes by modeling and simulations\n\n\n\n\n2013.08 - 2013.09\n\nDeveloped an iOS fitness tracker app"
-  },
-  {
-    "objectID": "cv.html#experience",
-    "href": "cv.html#experience",
-    "title": "CV",
-    "section": "",
-    "text": "2025.02 - Present\n\nApplied topological data analysis (TDA) on chemical space to build predictive models\n\n\n\n\n2020.06 - 2025.02\n\nBuilt an internal system for running model inference at scale using Ray and RayDP\nBuilt ADMET prediction models for National Institutes of Biomedical Innovation, Health and Nutrition (NIBIOHN) and their service DruMAP\nBuilt a competitive compound property prediction model for SIGNATE and won the 3rd place as a team\nBuilt a declarative PyTorch model training framework using SageMaker\nBuilt a video classification model supporting incremental class addition without performance degradation\n\n\n\n\n2016.09 - 2020.09\n\nDeveloped vision models for a video classification task\nDeployed survailance systems using network cameras\nWorked on tuning and configuring linux kernel for embedded devices\nWorked for a startup developing mesh networking software for IoT devices\n\n\n\n\n2016.04 - 2016.09\n\nBuilt RC cars with cameras using Raspberry Pi\nBuilt a car-driving simulation environment for RL algorithms\n\n\n\n\n2014.07 - 2014.09\n\nOptimized chemical processes by modeling and simulations\n\n\n\n\n2013.08 - 2013.09\n\nDeveloped an iOS fitness tracker app"
-  },
-  {
-    "objectID": "cv.html#education",
-    "href": "cv.html#education",
-    "title": "CV",
-    "section": "Education",
-    "text": "Education\n\n\n\nDoctor of Philosophy - PhD (Dropout), Chemical Engineering\n2016.04 - 2016.09, Kyoto University, Kyoto, Japan\n\n\nCollaborative Research Project, Chemical Engineering\n2015.06 - 2015.09, Massachusetts Institute of Technology, Cambridge, MA, USA\n\n\nMaster of Engineering - MEng, Chemical Engineering\n2014.04 - 2016.03, Kyoto University, Kyoto, Japan\n\n\nBachelor of Engineering - BEng, Engineering\n2010.04 - 2014.03, Kyoto University, Kyoto, Japan"
-  },
-  {
-    "objectID": "cv.html#publications",
-    "href": "cv.html#publications",
-    "title": "CV",
-    "section": "Publications",
-    "text": "Publications\n\n\nMultiscale DSA simulations for efficient hotspot analysis\n2014, SPIE Proceedings, Yoshihiro Hori, Kenji Yoshimoto, Takashi Taniguchi, Masahiro Ohshima"
   }
 ]
